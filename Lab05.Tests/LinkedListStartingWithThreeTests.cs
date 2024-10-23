@@ -1,6 +1,6 @@
 namespace Lab05.Tests;
 
-public class Tests
+public class LinkedListStartingWithThreeTests
 {
     [SetUp]
     public void Setup()
